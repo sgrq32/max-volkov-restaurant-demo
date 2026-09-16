@@ -27,7 +27,7 @@ npm run build
 ```
 
 ## Live demo
-Deployment pending
+https://max-volkov-restaurant-demo.vercel.app
 
 ## Screenshots
 Final screenshots are stored in `../portfolio-assets/restaurant` after browser QA.
